@@ -29,6 +29,12 @@ stof.run({
 })
 ```
 
+```
+//test/tests/x.js
+assert = requrie('assert')
+assert(true === false, 'true should be true')
+```
+
 # TODO
 
 * Async tests
