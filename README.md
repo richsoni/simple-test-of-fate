@@ -1,4 +1,4 @@
-# Easy Test
+# A Simple Test Of Fate
 
 A straightforward test suite for node.js
 
@@ -22,7 +22,7 @@ scripts: {
 Run tests on invocation:
 ```
 //in test/index.js
-stof = require('easy-test')
+stof = require('simple-test-of-fate')
 stof.run({
   dir: {DIR} // defaults to ./test/tests
   files: {FILES} //defaults to *.js (is a shell glob like used in find . -name {FILES})
