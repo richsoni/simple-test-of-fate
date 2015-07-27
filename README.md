@@ -5,7 +5,7 @@ A straightforward test suite for node.js
 ## Installation
 
 ```
-$  npm install --save-dev easy-test
+$  npm install --save-dev simple-test-of-fate
 ```
 
 # Usage
@@ -22,8 +22,8 @@ scripts: {
 Run tests on invocation:
 ```
 //in test/index.js
-easyTest = require('easy-test')
-easyTest.run({
+stof = require('easy-test')
+stof.run({
   dir: {DIR} // defaults to ./test/tests
   files: {FILES} //defaults to *.js (is a shell glob like used in find . -name {FILES})
 })
