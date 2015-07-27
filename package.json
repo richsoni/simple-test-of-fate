@@ -1,6 +1,6 @@
 {
   "name": "simple-test-of-fate",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a straightforward testing framework for node.js",
   "main": "index.js",
   "keywords": [
@@ -11,6 +11,30 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rich Soni",
-  "license": "ISC"
+  "author": {
+    "name": "Rich Soni"
+  },
+  "license": "ISC",
+  "gitHead": "90bcfb6e1ab3c28ef03bb2df736cdb4ee276c24f",
+  "_id": "simple-test-of-fate@0.0.3",
+  "_shasum": "1492f3d48963fb05574e84b141c7a91c3313fc66",
+  "_from": "simple-test-of-fate@0.0.3",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "2.1.0",
+  "_npmUser": {
+    "name": "richsoni",
+    "email": "rich@richsoni.com"
+  },
+  "dist": {
+    "shasum": "1492f3d48963fb05574e84b141c7a91c3313fc66",
+    "tarball": "http://registry.npmjs.org/simple-test-of-fate/-/simple-test-of-fate-0.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "richsoni",
+      "email": "rich@richsoni.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/simple-test-of-fate/-/simple-test-of-fate-0.0.3.tgz"
 }
